@@ -1,6 +1,6 @@
 # 渊索寓言 (The Abyss Fables)
 
-> AI 驱动的深度文字冒险游戏 | DeepSeek 赋能的互动叙事体验
+> AI 驱动的文字冒险游戏 | DeepSeek 赋能的互动叙事体验
 
 ## 简介
 
@@ -21,49 +21,17 @@
 
 ## 运行环境
 
-- **操作系统**：Windows 10/11（主要支持），Linux/macOS 理论兼容
+- **操作系统**：Windows 10/11（主要支持）
 - **Python**：3.10+
-- **API**：DeepSeek API Key（需自行申请：[platform.deepseek.com](https://platform.deepseek.com)）
+- **API**：DeepSeek API Key（需自行申请：(https://platform.deepseek.com)）
 
-## 快速开始
 
-### 1. 克隆项目
-
-```bash
-git clone https://github.com/your-username/the-abyss-fables.git
-cd the-abyss-fables
-```
-
-### 2. 安装依赖
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. 配置 API Key
-
-将 `config_data/config.json.example` 复制为 `config_data/config.json`，填入你的 DeepSeek API Key：
-
-```json
-{
-  "api": {
-    "base_url": "https://api.deepseek.com",
-    "api_key": "sk-your-api-key-here",
-    "model": "deepseek-chat"
-  }
-}
-```
-
-> ⚠️ **请勿将含真实 API Key 的 config.json 上传到公开仓库！** 该文件已在 `.gitignore` 中排除。
+> 友情提示⚠️ **请勿将含真实 API Key 的 config.json 上传到公开仓库！** 该文件已在 `.gitignore` 中排除。
 
 ### 4. 启动游戏
 
 **Windows 用户**：双击 `启动游戏.bat`
 
-**其他系统**：
-```bash
-python main.py
-```
 
 ## 项目结构
 
@@ -87,9 +55,9 @@ game-txt/
 ## 开发与贡献
 
 本项目由 [Trae IDE](https://trae.ai) 辅助开发。
-
+此项目为作者第一次尝试vibe coding的实验性作品，大量内容由AI生成，且存在大量疏漏！
+还请各位大佬多多包含、多多指教！
 欢迎提交 Issue 和 Pull Request！在提交 PR 前，请确保：
-
 - 代码风格与现有代码保持一致
 - 不引入新的硬编码配置或敏感信息
 - 测试基本功能正常
@@ -115,5 +83,4 @@ game-txt/
 ---
 
 **开发者**：Monkey3072
-
 *感谢所有开源项目及其贡献者。*
