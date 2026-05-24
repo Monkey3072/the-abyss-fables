@@ -1,0 +1,18 @@
+{
+  "api": {
+    "base_url": "https://api.deepseek.com",
+    "api_key": "your-api-key-here",
+    "model": "deepseek-chat"
+  },
+  "display": {
+    "resolution": "1280x720",
+    "font_family": "Microsoft YaHei",
+    "font_size": 12,
+    "ui_color": "暗夜蓝",
+    "background_image": ""
+  },
+  "audio": {
+    "music_volume": 80,
+    "sfx_volume": 80
+  }
+}

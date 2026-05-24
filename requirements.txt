@@ -1,0 +1,17 @@
+openai>=1.0.0
+PyQt5>=5.15.0
+
+# 日志（MIT License）
+loguru>=0.7.0
+
+# 种子加密（Apache 2.0 / PSF License）
+cryptography>=41.0.0
+
+# 数据校验（MIT License）
+pydantic>=2.0.0
+
+# Token 预估（MIT License）
+tiktoken>=0.5.0
+
+# 异步 Qt 事件循环（BSD License）
+qasync>=0.27.0
