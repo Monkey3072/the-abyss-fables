@@ -57,7 +57,7 @@ game-txt/
 本项目由 [Trae IDE](https://trae.ai) 辅助开发。
 此项目为作者第一次尝试vibe coding的实验性作品，大量内容由AI生成，且存在大量疏漏！
 还请各位大佬多多包含、多多指教！
-欢迎提交 Issue 和 Pull Request！在提交 PR 前，请确保：
+欢迎提交 Issue 和 Pull Request。在提交前，请确保：
 - 代码风格与现有代码保持一致
 - 不引入新的硬编码配置或敏感信息
 - 测试基本功能正常
