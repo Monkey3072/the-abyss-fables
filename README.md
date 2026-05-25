@@ -28,7 +28,7 @@
 
 > 友情提示⚠️ **请勿将含真实 API Key 的 config.json 上传到公开仓库！** 该文件已在 `.gitignore` 中排除。
 
-### 4. 启动游戏
+### 启动游戏
 
 **Windows 用户**：双击 `启动游戏.bat`
 
@@ -36,7 +36,7 @@
 ## 项目结构
 
 ```
-game-txt/
+the-abyss-fables/
 ├── main.py              # 程序入口
 ├── requirements.txt     # Python 依赖
 ├── 启动游戏.bat          # Windows 启动脚本
