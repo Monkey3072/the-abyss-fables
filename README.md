@@ -23,7 +23,7 @@
 
 - **操作系统**：Windows 10/11（主要支持）
 - **Python**：3.10+
-- **API**：DeepSeek API Key（需自行申请：(https://platform.deepseek.com)）
+- **API**：DeepSeek API Key（需自行申请：( https://platform.deepseek.com ) ）
 
 
 > 友情提示⚠️ **请勿将含真实 API Key 的 config.json 上传到公开仓库！** 该文件已在 `.gitignore` 中排除。
